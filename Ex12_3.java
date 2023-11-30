@@ -4,3 +4,7 @@ public class Ex12_3 {
         w1.show();
     }
 }
+javac MyWindow.java
+javac Ex12_3.java
+java Ex12_3
+
